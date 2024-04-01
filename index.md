@@ -1,6 +1,8 @@
 ---
-title: Index.md
+title: Home
 author: Yicheng Zhu
 ---
 
-#This is actually index.
+
+# SCRAM Lab @ Smith College
+
